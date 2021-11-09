@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "productNo": "1588001",
+    "name": "魅族 18 Pro",
+    "desc": "8GB+128GB 苍穹浩瀚 骁龙888 2K AMOLED曲面屏 4400W前摄光学防抖 40W无线超充 旗舰5G手机",
+    "brandName": "魅族",
+    "price": 4999,
+    "stockNum": 10
+  },
+  {
+    "id": 2,
+    "productNo": "1588002",
+    "name": "HUAWEI P50 Pro",
+    "desc": "4G全网通 原色双影像单元 HarmonyOS 2 万象双环设计12GB+512GB涟漪云波华为手机",
+    "brandName": "华为",
+    "price": 7988,
+    "stockNum": 10
+  },
+  {
+    "id": 3,
+    "productNo": "1588003",
+    "name": "红米K40",
+    "desc": "游戏增强版 5G智能电竞手机 全网通 12G+128G 暗影 官方标配",
+    "brandName": "小米",
+    "price": 1899,
+    "stockNum": 10
+  }
+]

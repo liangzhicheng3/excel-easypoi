@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": null,
+    "gender": 0,
+    "nickname": "super",
+    "birthday": "2000-12-31",
+    "phone": "15880000000",
+    "icon": null
+  },
+  {
+    "id": 2,
+    "username": "hate",
+    "password": null,
+    "gender": 0,
+    "nickname": "Hate",
+    "birthday": "2000-01-31",
+    "phone": "15881000000",
+    "icon": null
+  },
+  {
+    "id": 3,
+    "username": "amanda",
+    "password": null,
+    "gender": 1,
+    "nickname": "Amanda",
+    "birthday": "2000-02-28",
+    "phone": "15882000000",
+    "icon": null
+  },
+  {
+    "id": 4,
+    "username": "jessica",
+    "password": null,
+    "gender": 1,
+    "nickname": "Jessica",
+    "birthday": "2000-03-31",
+    "phone": "15883000000",
+    "icon": null
+  },
+  {
+    "id": 5,
+    "username": "ashley",
+    "password": null,
+    "gender": 1,
+    "nickname": "",
+    "birthday": "2000-6-30",
+    "phone": "15884000000",
+    "icon": null
+  }
+]
